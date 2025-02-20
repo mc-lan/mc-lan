@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi 👋 I'm Mengcheng Lan! 
+
+- 🔭 I’m currently a PhD candidate at S-Lab, Nanyang Technological University, Singapore.
+
+- 🌱 I’m interested in vision-language learning, multimodal large language models.
+
 
 <!--
 **mc-lan/mc-lan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
