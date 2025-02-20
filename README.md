@@ -1,7 +1,6 @@
 ## Hi 👋 I'm Mengcheng Lan! 
 
 - 🔭 I’m currently a PhD candidate at S-Lab, Nanyang Technological University, Singapore.
-
 - 🌱 I’m interested in vision-language learning, multimodal large language models.
 
 
